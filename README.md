@@ -26,5 +26,5 @@ Amo programação, Música e Animes, essas 3 coisas são praticamente a minha id
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsiangana&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-<img style="width:535px;border-radius:15px" alt="CSS" src="https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg"/>
+<img style="width:500px" alt="CSS" src="https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg"/>
 
