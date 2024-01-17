@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/eliseu_zau)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](http://twitter.com/Tsiangana_zau)
 
-![Tsiangana GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsiangana&show_icons=true&theme=tokyonight)
+![Tsiangana GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsiangana&show_icons=true&theme=tokyonight) 
 
 ## Tecnologias preferidas do dia a dia🐱‍💻
 
@@ -26,4 +26,5 @@ Amo programação, Música e Animes, essas 3 coisas são praticamente a minha id
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsiangana&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<img style="width:535px;border-radius:15px" alt="CSS" src="https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg"/>
 
