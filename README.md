@@ -1,5 +1,6 @@
 
 ### Olá!! eu sou o Tsiangana Zau ✌
+God, Programming, Music and Anime is my life - I am a lover of code bugs
 
 <a href="https://Tsiangana.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aniworld4963)
