@@ -27,7 +27,7 @@ God, Programming, Music and Anime is my life - I am a lover of code bugs
 Deus, programação, Música e Animes são os 4 pilares da minha identidade. Tenho como objetivo me tornar o melhor programador do mundo. <br/>
 
 ## % Percentagem das Tecnologias mais usadas %
-<br/>
+<br/> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsiangana&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsiangana&layout=compact&hide_border=true&title_color=fff&text_color=7F00FF&bg_color=0d1117" />
