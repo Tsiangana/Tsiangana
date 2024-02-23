@@ -22,7 +22,7 @@ God, Programming, Music and Anime is my life - I am a lover of code bugs
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="center" alt="C" src="https://img.shields.io/badge/-00000F?style=for-the-badge&logo=C&logoColor=white"/>
 <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-</div><br/> 
+</div><br/>
 
 Deus, programação, Música e Animes são os 4 pilares da minha identidade. Tenho como objetivo me tornar o melhor programador do mundo. <br/>
 
