@@ -11,7 +11,7 @@ God, Programming, Music and Anime is my life - I am a lover of code bugs
 
 ![Tsiangana GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsiangana&show_icons=true&theme=tokyonight) 
 
-## Tecnologias preferidas do dia a dia🐱‍💻
+## Tecnologias preferidas do dia a dia🐱‍💻 
 
 <div style="display:inline-block"><br/><img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
