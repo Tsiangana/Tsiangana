@@ -1,6 +1,6 @@
 
 ### Olá!! eu sou o Tsiangana Zau ✌
-God, Programming, Music and Anime is my life - I am a lover of code bugs 
+God, Programming, Music and Anime is my life - I am a lover of code bugs
 ## [![site](https://img.shields.io/badge/Buy_me_a_coffe_please!-AC443D?style=for-the-badge&logo=cup&logoColor=white)](https://paypal.me/tsiangana) ☕❤
  
 <a href="https://Tsiangana.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
