@@ -4,7 +4,6 @@ God, Programming, Music and Anime is my life - I am a lover of code bugs
 ## [![site](https://img.shields.io/badge/Buy_me_a_coffe_please!-AC443D?style=for-the-badge&logo=cup&logoColor=white)](https://paypal.me/tsiangana) ☕❤
  
 <a href="https://Tsiangana.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a> 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aniworld4963)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/eliseu_zau)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](http://twitter.com/Tsiangana_zau) 
 <a href="mailto:pedrozau250@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
