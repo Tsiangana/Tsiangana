@@ -27,7 +27,6 @@ Still building. Still learning. Probably overengineering something right now.
 Today, my focus is on growing as a software engineer, creating products that impact lives, and collaborating with teams and companies that value innovation, technical quality, and constant evolution.
 If you are looking for someone who combines critical thinking, a passion for technology, and the ability to deliver real value, let's talk.
 
-<a href="https://paypal.me/tsiangana" target="_blank"><img src="https://img.shields.io/badge/Coffee-AC443D?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a> 
 <a href="https://www.tsiangana.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a> 
 <a href="https://github.com/tsiangana/" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
 <a href="https://profile.intra.42.fr/users/pzau" target="_blank"><img src="https://img.shields.io/badge/Transcender-006e70?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
