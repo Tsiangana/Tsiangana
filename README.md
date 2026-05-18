@@ -1,5 +1,5 @@
-### AI or quantum computing, which do you prefer?
-<hr/>
+### AI or Quantum computing, which do you prefer?
+##
 Building software, improving systems, and turning ideas into real products.
 
 I’m a software engineer who enjoys creating things across web, mobile, backend, infrastructure, automation, and anything else that helps bring an idea to life.
@@ -27,9 +27,13 @@ Still building. Still learning. Probably overengineering something right now.
 Today, my focus is on growing as a software engineer, creating products that impact lives, and collaborating with teams and companies that value innovation, technical quality, and constant evolution.
 If you are looking for someone who combines critical thinking, a passion for technology, and the ability to deliver real value, let's talk.
 
+<a href="https://paypal.me/tsiangana" target="_blank"><img src="https://img.shields.io/badge/Pay_coffee-AC443D?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a> 
+<a href="https://www.tsiangana.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a> 
+<a href="https://github.com/tsiangana/" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
+<a href="https://profile.intra.42.fr/users/pzau" target="_blank"><img src="https://img.shields.io/badge/Transcender-006e70?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
+<a href="https://qubait.web.app/" target="_blank"><img src="https://img.shields.io/badge/IA_or_Quantum_Computing-4154f1?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
+<a href="https://info.cern.ch/" target="_blank"><img src="https://img.shields.io/badge/Hello_World-FFFFFF?style=for-the-badge&logo=todoist&logoColor=black" target="_blank" /></a>
+
 ## Become a Github member and fork my repositories "Let's grow together"
 <br/>
-[![site](https://img.shields.io/badge/Buy_me_a_coffe_please!-AC443D?style=for-the-badge&logo=cup&logoColor=white)](https://paypal.me/tsiangana)
-<a href="https://www.tsiangana.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a> 
-<a href="https://github.com/tsiangana/" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a> 
 <img alt="CSS" src="https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg"/>
